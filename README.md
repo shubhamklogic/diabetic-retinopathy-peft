@@ -12,16 +12,6 @@ The framework achieves near-foundation agreement (**0.8998 Quadratic Weighted Ka
 
 ---
 
-### Student & Project Metadata
-
-| Field | Details |
-| :--- | :--- |
-| **Student Name** | Shubham Kumar |
-| **Registration Number** | 2430010352 |
-| **Section** | D |
-| **Project Title** | Parameter-Efficient Foundation Adaptation with Ordinal Cumulative Boundaries for Diabetic Retinopathy Staging |
-| **GitHub Username** | [@shubhamklogic](https://github.com/shubhamklogic) |
-
 ## Table of Contents
 
 1. [Project Overview & Clinical Background](#1-project-overview--clinical-background)
